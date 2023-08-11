@@ -2,6 +2,8 @@
 #### Target: Pass Ftmo challenge
 
 ### How will i achieve: By making a startegy
-
+### What are the RR ratios = 1:3
 ##feature
-###strategy: Supply and demand 
+###strategy: Supply and demand
+
+###Daily goal: 1% of total balance  
