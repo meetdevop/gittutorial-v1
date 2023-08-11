@@ -1,2 +1,6 @@
 #### Author : Meet Shah
 #### Target: Pass Ftmo challenge
+
+### How will i achieve: By making a startegy
+
+
