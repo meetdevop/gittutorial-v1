@@ -3,4 +3,5 @@
 
 ### How will i achieve: By making a startegy
 
-
+##feature
+###strategy: Supply and demand 
